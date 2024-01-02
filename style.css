@@ -17,6 +17,7 @@ background-color: rgb(78, 48, 161);
 color: rgb(22, 132, 229);
 display: flex;
 right: 50%;
+    margin left:10px;
 position: relative;
 border-radius: 10px;
 span{
